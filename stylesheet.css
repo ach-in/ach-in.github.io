@@ -129,3 +129,10 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+#tag_line {
+  background-color: black;
+  color: wheat;
+  border-radius: 7px;
+  padding: 7px;
+}
