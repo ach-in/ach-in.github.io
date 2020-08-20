@@ -130,9 +130,18 @@ span.highlight {
   background-color: #ffffd0;
 }
 
-#tag_line {
+#tag_line1 {
   background-color: black;
   color: wheat;
   border-radius: 7px;
   padding: 7px;
+  display: inline-block
+}
+#tag_line2 {
+  background-color: black;
+  color: wheat;
+  border-radius: 7px;
+  padding: 7px;
+  position: relative;
+  display: inline-block
 }
