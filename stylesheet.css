@@ -145,3 +145,9 @@ span.highlight {
   position: relative;
   display: inline-block
 }
+
+#myPara{
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 50px;
+  text-align: justify;
+}
